@@ -1,0 +1,64 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/page.css);
+
+@import url(../Inter\ Web/inter.css);
+
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/__image/logo__image.css);
+
+@import url(../blocks/body/body.css);
+
+
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__image/-pic/lead__image-pic.css);
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__quote/intro__quote.css);
+@import url(../blocks/intro/__author/intro__author.css);
+@import url(../blocks/intro/__description/intro__description.css);
+
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+
+@import url(../blocks/places/places.css);
+@import url(../blocks/places/__place/places__place.css);
+
+@import url(../blocks/frame6/frame6.css);
+@import url(../blocks/frame6/-muramvya/frame6-muramvya.css);
+@import url(../blocks/frame6/__paragraph/frame6__paragraph.css);
+@import url(../blocks/frame6/__paragraph/-cover/frame6__paragraph-cover.css);
+@import url(../blocks/frame6/-obregon/frame6-obregon.css);
+@import url(../blocks/frame6/-cover/frame6-cover.css);
+
+@import url(../blocks/website/website.css);
+@import url(../blocks/website/-criccieth/website-Criccieth.css);
+@import url(../blocks/website/-berea/website-berea.css);
+@import url(../blocks/website/-obregon/website-obregon.css);
+@import url(../blocks/website/-muramvya/website-muramvya.css);
+@import url(../blocks/website/__url-heading/website__url-heading.css);
+@import url(../blocks/website/__artist/website__artist.css);
+
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__title/-criccieth/place__title-Criccieth.css);
+@import url(../blocks/place/__title/-berea/place__title-berea.css);
+@import url(../blocks/place/__title/-muramvya/place__title-muramvya.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__paragraph/-criccieth/place__paragraph-criccieth.css);
+@import url(../blocks/place/__paragraph/-berea/place__paragraph-berea.css);
+@import url(../blocks/place/__paragraph/-muramvya/place__paragraph-muramvya.css);
+
+@import url(../blocks/group9/group9.css);
+@import url(../blocks/group9/__title/group9__title.css);
+@import url(../blocks/group9/__subtitle/group9__subtitle.css);
+
+@import url(../blocks/cover/cover.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

@@ -1,0 +1,19 @@
+.place__title-muramvya {
+    margin-top: 0;
+}
+@media screen and (max-width: 1140px) {
+    .place__title-muramvya {
+        height: 92px;
+        width: 340px;
+    }
+}
+
+@media screen and (max-width: 765px) {
+    .place__title-muramvya {
+        width: 288px;
+        height: 70px;
+        font-size: 32px;
+        line-height: 35px;
+        margin-bottom: 0;
+    }
+}

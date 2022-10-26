@@ -1,0 +1,11 @@
+.website-Criccieth {
+    height: 67px;
+    margin-top: 85px;
+}
+
+@media screen and (max-width: 1140px) {
+    .website-Criccieth {
+        height: 89px;
+        margin-top: 0;
+    }
+}

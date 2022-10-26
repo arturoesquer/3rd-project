@@ -1,0 +1,17 @@
+.frame6-muramvya {
+    margin: 0;
+}
+
+@media screen and (max-width: 1140px) {
+    .frame6-muramvya {
+        margin-bottom: 269px;
+    }
+}
+
+@media screen and (max-width: 765px) {
+    .frame6-muramvya {
+        margin: 4px auto 0 auto;
+        min-height: 48px;
+        width: 288px;
+    }
+}

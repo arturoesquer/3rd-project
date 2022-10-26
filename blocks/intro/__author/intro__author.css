@@ -1,0 +1,77 @@
+.intro__author {
+    width: 720px;
+    height: 34px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: right;
+    color: #FFFFFF;
+    position: absolute;
+    top: 268px;
+    left: 0;
+    transform: translateY(-24px);
+}
+
+@media screen and (max-width: 1061px) {
+    .intro__author {
+        position: absolute;
+        top: 270px;
+        left: 0;
+    }
+}
+
+@media  screen and (max-width: 1013px) {
+    .intro__author {
+        position: absolute;
+        top: 320px;
+        left: 0;
+    }
+}
+
+@media screen and (max-width: 843px) {
+    .intro__author {
+        position: absolute;
+        top: 320px;
+        left: 0;
+        width: 90vw;
+    }
+}
+
+@media screen and (max-width: 811px) {
+    .intro__author {
+        position: absolute;
+        top: 320px;
+        left: 0;
+    }
+}
+
+@media screen and (max-width: 798px) {
+    .intro__author {
+        position: absolute;
+        top: 380px;
+        left: 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro__author {
+        width: 95vw;
+        font-size: 24px;
+        line-height: 34px;
+        position: absolute;
+        top: 200px;
+        left: 0;
+    }
+}
+
+@media screen and (max-width: 727px) {
+    .intro__author {
+        width: 288px;
+        transform: none;
+        margin-top: 0;
+        position: initial;
+        margin-bottom: 0;
+    }
+}

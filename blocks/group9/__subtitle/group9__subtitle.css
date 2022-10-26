@@ -1,0 +1,23 @@
+.group9__subtitle {
+    width: 280px;
+    height: 66px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 188px;
+}
+
+@media screen and (max-width: 767px) {
+    .group9__subtitle {
+        width: 280px;
+        height: 48px;
+        font-size: 14px;
+        line-height: 16px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

@@ -1,0 +1,19 @@
+.place__title-Criccieth {
+    width: 484px;
+    overflow: hidden;
+    display: flex;
+}
+
+@media screen and (max-width: 1140px) {
+    .place__title-Criccieth {
+        margin-top: 21px;
+        width: fit-content;
+    }
+}
+
+@media screen and (max-width: 765px) {
+    .place__title-Criccieth {
+        margin-top: 0;
+        width: 288px;
+    }
+}

@@ -1,0 +1,26 @@
+.place__title-berea {
+    min-width: 584px;
+    margin-bottom: 17px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+@media screen and (max-width: 1140px) {
+    .place__title-berea {
+        font-size: 42px;
+        line-height: 46px;
+        margin-bottom: 0;
+        min-height: 92px;
+        min-width: 340px;
+    }
+}
+
+@media screen and (max-width: 765px) {
+    .place__title-berea {
+        min-width: 288px;
+        min-height: 70px;
+        font-size: 32px;
+        line-height: 35px;
+        margin: 0 auto 9px auto;
+    }
+}

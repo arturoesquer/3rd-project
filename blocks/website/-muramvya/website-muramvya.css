@@ -1,0 +1,21 @@
+.website-muramvya {
+    margin-bottom: 48px;
+}
+
+@media screen and (max-width:1140px) {
+    .website-muramvya {
+        margin-top: 47px;
+        margin-bottom: 27px;
+        width: 352px;
+        height: 45px;
+    }
+}
+
+@media screen and (max-width:765px) {
+    .website-muramvya {
+        margin-top: 30px;
+        margin-bottom: 8px;
+        width: 288px;
+        min-height: 67px;
+    }
+}

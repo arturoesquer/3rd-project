@@ -1,0 +1,22 @@
+.website {
+    width: 456px;
+    height: 45px;
+    margin-top: 107px;
+    margin-bottom: 48px;
+}
+
+@media screen and (max-width: 1140px) {
+    .website {
+        margin-bottom: 24px;
+        margin-top: 0;
+        width: 352px;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 765px) {
+    .website {
+        margin: 0 auto 30px auto;
+        width: 288px;
+    }
+}

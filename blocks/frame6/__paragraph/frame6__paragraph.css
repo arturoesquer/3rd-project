@@ -1,0 +1,24 @@
+.frame6__paragraph {
+    width: 315px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-left: 20px;
+    text-decoration: none;
+    align-items: center;
+    margin-top: 13px;
+}
+
+@media screen and (max-width: 765px) {
+    .frame6__paragraph {
+        font-size: 14px;
+        line-height: 16.94px;
+        height: 17px;
+        width: 245px;
+        margin: auto;
+    }
+}

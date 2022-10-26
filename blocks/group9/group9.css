@@ -1,0 +1,12 @@
+.group9 {
+    width: 656px;
+    height: 254px;
+}
+
+@media screen and (max-width: 767px) {
+    .group9 {
+        height: 163px;
+        width: 288px;
+        margin: 46px auto 45px auto;
+    }
+}

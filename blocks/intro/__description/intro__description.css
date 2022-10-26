@@ -1,0 +1,28 @@
+.intro__description {
+    width: 720px;
+    height: 182px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 163%;
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+
+
+@media screen and (max-width: 767px) {
+    .intro__description {
+        font-size: 16px;
+        line-height: 26.08px;
+        width: 90vw;
+    }
+}
+
+
+@media screen and (max-width: 727px) {
+    .intro__description {
+        width: 288px;
+        margin: 0 auto 0 auto;
+    }
+}

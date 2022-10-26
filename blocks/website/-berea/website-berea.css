@@ -1,0 +1,16 @@
+.website-berea {
+    margin-top: 76px;
+    transform: translateX(-96px);
+}
+
+@media screen and (max-width: 800px) {
+    .website-berea {
+        margin-top: 0;
+    }
+}
+
+@media screen and (max-width: 765px) {
+    .website-berea {
+        transform: none;
+    }
+}

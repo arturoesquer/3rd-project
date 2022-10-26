@@ -1,0 +1,13 @@
+.frame6-cover {
+    width: 198px;
+    height: 48px;
+    margin-left: 229px;
+    margin-bottom: 0;
+    margin-top: 32px;
+}
+
+@media screen and (max-width: 767px) {
+    .frame6-cover {
+        margin: 16px auto 0 auto;
+    }
+}

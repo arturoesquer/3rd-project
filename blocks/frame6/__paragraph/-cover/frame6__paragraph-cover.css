@@ -1,0 +1,10 @@
+.frame6__paragraph-cover {
+    width: 158px;
+}
+
+@media screen and (max-width: 767px) {
+    .frame6__paragraph-cover {
+        font-size: 18px;
+        line-height: 22px;
+    }
+}

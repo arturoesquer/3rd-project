@@ -1,0 +1,23 @@
+.group9__title {
+    width: 656px;
+    height: 76px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    text-align: center;
+    color: #FFFDFD;
+    margin-top: 0;
+    margin-bottom: 32px;
+}
+
+@media screen and (max-width: 767px) {
+    .group9__title {
+        width: 288px;
+        height: 35px;
+        font-size: 32px;
+        line-height: 35px;
+        margin-bottom: 16px;
+    }
+}
