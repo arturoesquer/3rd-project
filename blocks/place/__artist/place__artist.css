@@ -1,25 +1,21 @@
-.website__artist {
-    width: 456px;
-    height: 22px;
+.place__artist {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     color: #FFFFFF;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin: 0;
 }
 
 @media screen and (max-width: 1140px) {
-    .website__artist {
+    .place__artist {
         width: 352px;
-        height: fit-content;
     }
 }
 
 @media screen and (max-width: 765px) {
-    .website__artist {
+    .place__artist {
         width: 288px;
     }
 }

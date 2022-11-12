@@ -4,7 +4,7 @@
 
 @import url(../Inter\ Web/inter.css);
 
-@import url(../blocks/body/body.css);
+@import url(../blocks/main/main.css);
 
 
 @import url(../blocks/header/header.css);
@@ -24,33 +24,23 @@
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 @import url(../blocks/places/places.css);
-@import url(../blocks/places/__place/places__place.css);
 
-@import url(../blocks/frame6/frame6.css);
-@import url(../blocks/frame6/-muramvya/frame6-muramvya.css);
-@import url(../blocks/frame6/__paragraph/frame6__paragraph.css);
-@import url(../blocks/frame6/__paragraph/-cover/frame6__paragraph-cover.css);
-@import url(../blocks/frame6/-obregon/frame6-obregon.css);
-@import url(../blocks/frame6/-cover/frame6-cover.css);
-
-@import url(../blocks/website/website.css);
-@import url(../blocks/website/-criccieth/website-Criccieth.css);
-@import url(../blocks/website/-berea/website-berea.css);
-@import url(../blocks/website/-obregon/website-obregon.css);
-@import url(../blocks/website/-muramvya/website-muramvya.css);
-@import url(../blocks/website/__url-heading/website__url-heading.css);
-@import url(../blocks/website/__artist/website__artist.css);
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/__paragraph/button__paragraph.css);
+@import url(../blocks/button/-cover/button-cover.css);
+@import url(../blocks/button/__paragraph/-cover/button__paragraph-cover.css);
 
 @import url(../blocks/place/place.css);
+@import url(../blocks/place/-muramvya/place-muramvya.css);
 @import url(../blocks/place/__title/place__title.css);
-@import url(../blocks/place/__title/-criccieth/place__title-Criccieth.css);
 @import url(../blocks/place/__title/-berea/place__title-berea.css);
-@import url(../blocks/place/__title/-muramvya/place__title-muramvya.css);
 @import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__website/place__website.css);
+@import url(../blocks/place/__artist/place__artist.css);
+@import url(../blocks/place/__url-heading/place__url-heading.css);
+@import url(../blocks/place/__paragraphs/place__paragraphs.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
-@import url(../blocks/place/__paragraph/-criccieth/place__paragraph-criccieth.css);
-@import url(../blocks/place/__paragraph/-berea/place__paragraph-berea.css);
-@import url(../blocks/place/__paragraph/-muramvya/place__paragraph-muramvya.css);
+
 
 @import url(../blocks/group9/group9.css);
 @import url(../blocks/group9/__title/group9__title.css);

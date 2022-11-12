@@ -1,0 +1,10 @@
+.place-muramvya {
+    height: 859px;
+    align-content: flex-start;
+}
+
+@media screen and (max-width: 765px) {
+    .place-muramvya {
+        min-height: 1433px;
+    }
+}

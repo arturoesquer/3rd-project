@@ -1,6 +1,4 @@
-.website__url-heading {
-    width: 58px;
-    height: 15px;
+.place__url-heading {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -9,5 +7,5 @@
     letter-spacing: 0.12em;
     text-transform: uppercase;
     color: #AAAAAA;
-    text-decoration: none;
+    margin: 0;
 }

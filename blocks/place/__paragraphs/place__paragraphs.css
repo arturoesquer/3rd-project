@@ -1,0 +1,26 @@
+.place__paragraphs {
+    grid-area: content;
+    max-height: 460px;
+    width: 484px;
+    row-gap: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    justify-self: end;
+}
+
+@media screen and (max-width: 1140px) {
+    .place__paragraphs {
+        max-height: 340px;
+        width: 352px;
+        row-gap: 17.5px;
+    }
+}
+
+@media screen and (max-width: 765px) {
+    .place__paragraphs {
+        width: 288px;
+        max-height: fit-content;
+        margin: 7px 47px 6px 0;
+    }
+}
